@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Piyush Bhardwaj and I'm currently doing my Bachelor's of Technology from Chaudhary Charan Singh University Meerut. and expending my expertise in Flutter for App development</p>
+<p align="left">My name is Piyush Bhardwaj and I'm currently doing my Bachelor of Technology from Chaudhary Charan Singh University Meerut. and expending my expertise in Flutter for App development</p>
 
 ###
 
