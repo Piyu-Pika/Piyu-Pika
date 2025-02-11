@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode,py,cpp&theme=dark&perline=9" />
 </p>
 
-<p align="center">
+<p align="">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Piyu-Pika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs"/>
   <img height="150em" src="https://streak-stats.demolab.com?user=Piyu-Pika&theme=dark&exclude_days=Sun%2CMon" alt="GitHub Streak" />
 </p>
