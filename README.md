@@ -17,7 +17,8 @@
 </p>
 
 <p align="">
-  <img height="150em" width ="500"src="https://github-readme-stats.vercel.app/api?username=Piyu-Pika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="150em" width ="500"src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu-Pika&theme=vue-dark&hide_border=true"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyu-Pika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
