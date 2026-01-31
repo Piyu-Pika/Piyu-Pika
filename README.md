@@ -15,7 +15,6 @@ I am a **Final Year B.Tech student** and an **Indie Developer** with a passion f
 - 🌐 **Open Source**: Active contributor to [**void**](https://github.com/void-editor/void), an open-source alternative to Cursor.
 - 📦 **Package Maintainer**: Published `dev_log` and `easy_stars` on **pub.dev**.
 - ⚙️ **Tooling**: Built the **CodeArchitecture Tool** VS Code extension to optimize developer workflows.
-- 🐧 **Environment**: Proudly developing on **Zorin OS** and **Pop!_OS**.
 
 ---
 
