@@ -1,33 +1,66 @@
 <h1 align="center">Hi 👋, I'm Piyush Bhardwaj</h1>
-
-<div align="">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="200" align="right"/>
-  
-  ### Flutter Developer | Tech Enthusiast
-  
-  - 🎓 B.Tech Student at CCSU Meerut
-  - 🚀 Firebase & Flutter Developer
-  - 💡 Building Mobile Experiences
-  - 🎯 Goal: Full-Stack Android Developer
-</div>
-
-### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,firebase,androidstudio,nodejs,expressjs,mongodb,mysql,git,github,vscode,go,py,cpp,c,&theme=dark&perline=9" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Open%20Source-61DAFB?style=flat&logo=open-source-initiative&logoColor=white" alt="Open Source">
 </p>
 
-<p align="">
-  <img height="150em" width ="450"src="https://github-readme-stats.vercel.app/api?username=Piyu-Pika&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyu-Pika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+---
+
+### 👨‍💻 About Me
+I am a **Final Year B.Tech student** and an **Indie Developer** with a passion for building high-performance, scalable applications. I specialize in mobile development with **Flutter** and backend systems using **Golang** and **Node.js**.
+
+- 🛠️ **Founder @ Asteriq**: Developing production-level apps like **Exam Lens** (Job/Exam Notifier) and **SaralYatri**.
+- 🌐 **Open Source**: Active contributor to [**void**](https://github.com/void-editor/void), an open-source alternative to Cursor.
+- 📦 **Package Maintainer**: Published `dev_log` and `easy_stars` on **pub.dev**.
+- ⚙️ **Tooling**: Built the **CodeArchitecture Tool** VS Code extension to optimize developer workflows.
+- 🐧 **Environment**: Proudly developing on **Zorin OS** and **Pop!_OS**.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | Flutter, Dart, Android Studio |
+| **Backend** | Go (Golang), Node.js, Express.js |
+| **Database** | MongoDB, MySQL, Firebase |
+| **Languages** | C++, Python, Dart, Go |
+| **DevOps/Tools** | Git, Docker, VS Code Extension API, Linux CLI |
+
+---
+
+### 🚀 Projects & Contributions
+
+- **Exam Lens**: A comprehensive job and exam notification platform built with Flutter, Go, and MongoDB.
+- **CodeArchitecture Tool**: A VS Code extension designed to help developers maintain clean and organized project structures.
+- **[dev_log](https://pub.dev/packages/dev_log)**: A logging utility for Flutter to make debugging cleaner and more efficient.
+- **[easy_stars](https://pub.dev/packages/easy_stars)**: A customizable star-rating package for Flutter applications.
+
+---
+
+### 📈 GitHub Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Piyu-Pika&theme=tokyonight&show_icons=true&count_private=true" />
+  <img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu-Pika&theme=tokyonight&layout=compact&hide_border=false" />
 </p>
 
-### Connect With Me
-<p align="center">
+---
+
+### 🤝 Connect with me
+<p align="left">
   <a href="https://www.linkedin.com/in/piyush-bhardwaj-flutter">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:piyushbhardwaj1603@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://pub.dev/publishers/asteriq.in/packages">
+    <img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Jack of all trades, master of shipping products."</i>
 </p>
