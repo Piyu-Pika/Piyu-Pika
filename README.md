@@ -12,7 +12,7 @@
 I am a **Final Year B.Tech student** and an **Indie Developer** with a passion for building high-performance, scalable applications. I specialize in mobile development with **Flutter** and backend systems using **Golang** and **Node.js**.
 
 - 🛠️ **Founder @ Asteriq**: Developing production-level apps like **Exam Lens** (Job/Exam Notifier) and **SaralYatri**.
-- 🌐 **Open Source**: Active contributor to [**void**](https://github.com/void-editor/void), an open-source alternative to Cursor.
+- 🌐 **Open Source**: Active contributor to [**void**](https://github.com/voideditor/void), an open-source alternative to Cursor.
 - 📦 **Package Maintainer**: Published `dev_log` and `easy_stars` on **pub.dev**.
 - ⚙️ **Tooling**: Built the **CodeArchitecture Tool** VS Code extension to optimize developer workflows.
 
