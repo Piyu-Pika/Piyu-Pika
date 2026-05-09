@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/-Open%20Source-61DAFB?style=flat&logo=open-source-initiative&logoColor=white" alt="Open Source">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
 ---
@@ -13,6 +14,7 @@ I am a **Final Year B.Tech student** and an **Indie Developer** with a passion f
 
 - 🛠️ **Founder @ Asteriq**: Developing production-level apps like **Exam Lens** (Job/Exam Notifier) and **SaralYatri**.
 - 🌐 **Open Source**: Active contributor to [**void**](https://github.com/voideditor/void), an open-source alternative to Cursor.
+-  **[Kvaesitso](https://github.com/MM2-0/Kvaesitso)**: An open-source, search-focused Android launcher built with Kotlin & Jetpack Compose. Active contributor.
 - 📦 **Package Maintainer**: Published `dev_log` and `easy_stars` on **pub.dev**.
 - ⚙️ **Tooling**: Built the **CodeArchitecture Tool** VS Code extension to optimize developer workflows.
 
